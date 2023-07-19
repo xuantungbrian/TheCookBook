@@ -25,3 +25,5 @@ Ensure Post/Pull requests(June 19)
 - Final testings
 ~~~
 
+This is a project done by three people. Credits go to Eric Wong Liu and Daniel Lee.
+
